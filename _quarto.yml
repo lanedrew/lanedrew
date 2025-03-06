@@ -1,0 +1,32 @@
+project:
+  type: website
+  resources:
+      - Drew_CV_25.pdf
+
+website:
+  title: "Lane Drew"
+  image: images/IMG_2598.jpg
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+    right:
+      - href: Drew_CV_25.pdf
+        text: C.V.
+      - href: https://github.com/lanedrew
+        icon: github
+      - href: https://www.linkedin.com/in/lane-drew-941810168/
+        icon: linkedin
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+

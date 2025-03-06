@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+---
+
+I have taught a wide array of introductory Statistics courses at the undergraduate level at Colorado State University, including:
+
+* STAT 100 Statistical Literacy (SP 23, FA 24)
+* STAT 158 Introduction to R Programming (SU 23, SU 24, SP 25)
+* STAT 201 General Statistics (SU 20)
+* STAT 204 Statistics with Business Applications (SU 20)
+* STAT 301 Introduction to Applied Statistical Methods (FA 21, SP 22, FA 22, SP 24)
+
+I have also facilitated workshops on R programming and version control using Git for [Coding & Cookies](https://libguides.colostate.edu/coding-cookies), including:
+
+* Version Control Using git (SP 24, FA 24)
+* Data Visualization Using ggplot (SP 22)
+* R Basics (FA 22, SP 23, FA 23)

@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+I am Lane Drew, a Ph.D. candidate in Statistics at Colorado State University.
+
+My research interests include Bayesian hierarchical modeling for environmental and ecological applications with an emphasis on record linkage, spatial point processes, and statistical computing.
+
+On this website, you will find a selection of my published works. In addition, you will find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. 
+Please feel free to [contact me](mailto:mail.lanetdrew@gmail.com) if you have any questions or would like to discuss potential projects.
