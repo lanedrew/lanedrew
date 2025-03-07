@@ -15,7 +15,7 @@ website:
       - href: teaching.qmd
         text: Teaching
     right:
-      - href: Drew_CV_25.pdf
+      - href: Drew_CV.pdf
         text: C.V.
       - href: https://github.com/lanedrew
         icon: github

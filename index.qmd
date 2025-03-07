@@ -4,7 +4,7 @@ about:
   image: "images/IMG_2598.jpg"
   links:
     - text: C.V.
-      href: "Drew_CV_25.pdf"
+      href: "Drew_CV.pdf"
     - icon: github
       text: GitHub
       href: https://github.com/lanedrew
@@ -26,10 +26,10 @@ I am a Ph.D. candidate in Statistics at Colorado State University (defense antic
 
 My research is centered on statistical methods for analyzing complex spatial and temporal data, particularly in ecological and environmental settings. I am particularly interested in:
 
-* Bayesian Methods and Non-Linear Regression – Implementing Bayesian hierarchical models and non-linear regression techniques for parameter estimation and uncertainty quantification.
+-   Bayesian Methods and Non-Linear Regression – Implementing Bayesian hierarchical models and non-linear regression techniques for parameter estimation and uncertainty quantification.
 
-* Record Linkage and Data Integration – Developing probabilistic methods for linking spatial-temporal datasets across different resolutions and time points.
+-   Record Linkage and Data Integration – Developing probabilistic methods for linking spatial-temporal datasets across different resolutions and time points.
 
-* Spatial and Spatio-temporal Point Processes – Developing models for event occurrences in space and time, with applications to location-dependent marked point processes arising in forestry.
+-   Spatial and Spatio-temporal Point Processes – Developing models for event occurrences in space and time, with applications to location-dependent marked point processes arising in forestry.
 
 I am always looking for opportunities to apply statistical modeling to real-world challenges and collaborate with researchers across disciplines.
