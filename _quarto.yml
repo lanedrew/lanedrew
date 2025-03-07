@@ -27,7 +27,7 @@ format:
     theme: darkly
     css: styles.css
     toc: true
-    site: "https://lanedrew.github.io/lanedrew.github.io.git/"
+    site: "https://lanedrew.github.io/lanedrew/"
 
 editor: visual
 
