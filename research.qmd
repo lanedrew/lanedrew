@@ -3,11 +3,13 @@ title: "Research"
 ---
 
 ## Papers
+
 ### Preprints
 
-* **Drew, L.**, Kaplan, A., Breckheimer, I. "A Bayesian Record Linkage Approach to Applications in Tree Demography Using Overlapping LiDAR Scans". DOI: 10.48550/arXiv.2501.13285. (2024+) (Under revision at *Annals of Applied Statistics*).
+-   **Drew, L.**, Kaplan, A., Breckheimer, I. "A Bayesian Record Linkage Approach to Applications in Tree Demography Using Overlapping LiDAR Scans". DOI: 10.48550/arXiv.2501.13285. (2024+) (Under revision at *Annals of Applied Statistics*).
 
 ## Software
+
 ### **ldmppr**
-**ldmppr** is an R package containing a suite of tools for estimating, assessing model fit, simulating from, and visualizing location dependent marked point processes characterized by regularity in the pattern.   [CRAN](https://cran.r-project.org/web/packages/ldmppr/index.html)
-[GitHub](https://github.com/lanedrew/ldmppr)
+
+**ldmppr** is an R package containing a suite of tools for estimating, assessing model fit, simulating from, and visualizing location dependent marked point processes characterized by regularity in the pattern. [CRAN](https://cran.r-project.org/web/packages/ldmppr/index.html) [GitHub](https://github.com/lanedrew/ldmppr)
