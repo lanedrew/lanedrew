@@ -24,7 +24,7 @@ I am a Ph.D. candidate in Statistics at Colorado State University (defense antic
 
 ## Research Interests
 
-My research is centered on statistical methods for analyzing complex spatial and temporal data, particularly in ecological and environmental settings. I am particularly interested in:
+My research is centered on statistical methods for analyzing complex spatial and temporal data, primarily in ecological and environmental settings. I am particularly interested in:
 
 -   Bayesian Methods and Non-Linear Regression – Implementing Bayesian hierarchical models and non-linear regression techniques for parameter estimation with robust uncertainty quantification.
 
