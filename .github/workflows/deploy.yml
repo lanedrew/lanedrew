@@ -1,33 +1,38 @@
-project:
-  type: website
-  resources:
-    - Drew_CV.pdf
+name: Deploy Quarto site to GitHub Pages
 
-website:
-  title: "Lane Drew"
-  image: images/IMG_2598.jpg
-  site-url: "https://lanedrew.com"
-  google-analytics: "G-GL720ELQZ1"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - href: teaching.qmd
-        text: Teaching
-    right:
-      - href: Drew_CV.pdf
-        text: C.V.
-      - href: https://github.com/lanedrew
-        icon: github
-      - href: https://www.linkedin.com/in/lanedrew/
-        icon: linkedin
+on:
+  push:
+    branches:
+      - main
 
-format:
-  html:
-    theme: darkly
-    css: styles.css
-    toc: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
 
-editor: visual
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.6.42
+
+      - name: Install Pandoc (if needed)
+        run: sudo apt-get install -y pandoc
+
+      - name: Install R and dependencies
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.3.2'
+
+      - name: Render Quarto Project
+        run: quarto render
+
+      - name: Create CNAME file
+        run: echo "www.lanedrew.com" > _site/CNAME
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
