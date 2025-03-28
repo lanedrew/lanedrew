@@ -10,7 +10,7 @@ about:
       href: https://github.com/lanedrew
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/lane-drew-941810168/
+      href: https://www.linkedin.com/in/lanedrew/
     # - icon: envelope
     #   text: Email
     #   href: "mailto:mail.lanetdrew@gmail.com"  
