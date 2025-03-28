@@ -6,7 +6,7 @@ project:
 website:
   title: "Lane Drew"
   image: images/IMG_2598.jpg
-  site-url: "https://www.lanedrew.com"
+  site-url: "https://lanedrew.com"
   google-analytics: "G-GL720ELQZ1"
   navbar:
     left:
