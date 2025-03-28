@@ -1,7 +1,7 @@
 project:
   type: website
   resources:
-      - Drew_CV_25.pdf
+      - Drew_CV.pdf
 
 website:
   title: "Lane Drew"

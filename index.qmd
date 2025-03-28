@@ -4,7 +4,7 @@ about:
   image: "images/IMG_2598.jpg"
   links:
     - text: C.V.
-      href: "Drew_CV.pdf"
+      href: Drew_CV.pdf
     - icon: github
       text: GitHub
       href: https://github.com/lanedrew
