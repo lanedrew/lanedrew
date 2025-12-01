@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-I am passionate about teaching and sharing my experience working with Statistics and the computational tools that I use in my research. 
+I am passionate about teaching and sharing my experience working with Statistics and the computational tools that I use in my research.
 
 I have taught a wide array of introductory Statistics courses at the undergraduate level at Colorado State University, including:
 

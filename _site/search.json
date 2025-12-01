@@ -4,21 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am Lane Drew, a Ph.D. candidate in Statistics at Colorado State University.\nMy research interests include Bayesian hierarchical modeling for environmental and ecological applications with an emphasis on record linkage, spatial point processes, and statistical computing.\nOn this website, you will find a selection of my published works. In addition, you will find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. Please feel free to contact me if you have any questions or would like to discuss potential projects."
+    "text": "I am Lane Drew, a Postdoctoral Fellow at the University of Colorado Anschutz Medical Campus in the Department of Biostatistics and Informatics at the Colorado School of Public Health. I received my Ph.D. in Statistics from Colorado State University.\nMy research interests include Bayesian hierarchical modeling for environmental and ecological applications with an emphasis on record linkage, spatial point processes, and statistical computing.\nOn this website, you will find a selection of my published works. In addition, you will find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. Please feel free to contact me if you have any questions or would like to discuss potential projects."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Drew, L., Kaplan, A., Breckheimer, I. “A Bayesian Record Linkage Approach to Applications in Tree Demography Using Overlapping LiDAR Scans”. DOI: 10.48550/arXiv.2501.13285. (2024+)"
+    "text": "Drew, L., Kaplan, A., and Breckheimer, I. “A Bayesian Record Linkage Approach to Applications in Tree Demography Using Overlapping LiDAR Scans”. The Annals of Applied Statistics 19.3 (2025), pp. 2027–2052."
   },
   {
     "objectID": "research.html#papers",
     "href": "research.html#papers",
     "title": "Research",
     "section": "",
-    "text": "Drew, L., Kaplan, A., Breckheimer, I. “A Bayesian Record Linkage Approach to Applications in Tree Demography Using Overlapping LiDAR Scans”. DOI: 10.48550/arXiv.2501.13285. (2024+)"
+    "text": "Drew, L., Kaplan, A., and Breckheimer, I. “A Bayesian Record Linkage Approach to Applications in Tree Demography Using Overlapping LiDAR Scans”. The Annals of Applied Statistics 19.3 (2025), pp. 2027–2052."
   },
   {
     "objectID": "research.html#software",
@@ -39,14 +39,14 @@
     "href": "index.html",
     "title": "Lane Drew",
     "section": "",
-    "text": "I am a Ph.D. candidate in Statistics at Colorado State University (defense anticipated Summer 2025), where my research focuses on developing statistical methods for ecological and environmental applications. I have experience working with spatial point processes, record linkage modeling, and statistical computing, with applications ranging from tree demography to social geography. I am passionate about statistical consulting and collaborating on interdisciplinary projects that require advanced data analysis and modeling."
+    "text": "I am a Postdoctoral Fellow at the University of Colorado Anschutz Medical Campus in the Department of Biostatistics and Informatics at the Colorado School of Public Health. I received my Ph.D. in Statistics from Colorado State University where my research focuses on developing statistical methods for ecological and environmental applications. I have experience working with spatial point processes, record linkage modeling, and statistical computing, with applications ranging from tree demography to social geography. I am passionate about statistical consulting and collaborating on interdisciplinary projects that require advanced data analysis and modeling."
   },
   {
     "objectID": "index.html#bio",
     "href": "index.html#bio",
     "title": "Lane Drew",
     "section": "",
-    "text": "I am a Ph.D. candidate in Statistics at Colorado State University (defense anticipated Summer 2025), where my research focuses on developing statistical methods for ecological and environmental applications. I have experience working with spatial point processes, record linkage modeling, and statistical computing, with applications ranging from tree demography to social geography. I am passionate about statistical consulting and collaborating on interdisciplinary projects that require advanced data analysis and modeling."
+    "text": "I am a Postdoctoral Fellow at the University of Colorado Anschutz Medical Campus in the Department of Biostatistics and Informatics at the Colorado School of Public Health. I received my Ph.D. in Statistics from Colorado State University where my research focuses on developing statistical methods for ecological and environmental applications. I have experience working with spatial point processes, record linkage modeling, and statistical computing, with applications ranging from tree demography to social geography. I am passionate about statistical consulting and collaborating on interdisciplinary projects that require advanced data analysis and modeling."
   },
   {
     "objectID": "index.html#research-interests",

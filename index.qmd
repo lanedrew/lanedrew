@@ -20,7 +20,7 @@ about:
 
 ## Bio
 
-I am a Ph.D. candidate in Statistics at Colorado State University (defense anticipated Summer 2025), where my research focuses on developing statistical methods for ecological and environmental applications. I have experience working with spatial point processes, record linkage modeling, and statistical computing, with applications ranging from tree demography to social geography. I am passionate about statistical consulting and collaborating on interdisciplinary projects that require advanced data analysis and modeling.
+I am a Postdoctoral Fellow at the University of Colorado Anschutz Medical Campus in the Department of Biostatistics and Informatics at the Colorado School of Public Health. I received my Ph.D. in Statistics from Colorado State University where my research focuses on developing statistical methods for ecological and environmental applications. I have experience working with spatial point processes, record linkage modeling, and statistical computing, with applications ranging from tree demography to social geography. I am passionate about statistical consulting and collaborating on interdisciplinary projects that require advanced data analysis and modeling.
 
 ## Research Interests
 

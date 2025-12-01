@@ -4,9 +4,9 @@ title: "Research"
 
 ## Papers
 
-### Preprints
+### Published
 
--   **Drew, L.**, Kaplan, A., Breckheimer, I. "A Bayesian Record Linkage Approach to Applications in Tree Demography Using Overlapping LiDAR Scans". DOI: 10.48550/arXiv.2501.13285. (2024+)
+-   **Drew, L.**, Kaplan, A., and Breckheimer, I. “A Bayesian Record Linkage Approach to Applications in Tree Demography Using Overlapping LiDAR Scans”. *The Annals of Applied Statistics* 19.3 (2025), pp. 2027–2052.
 
 ## Software
 
